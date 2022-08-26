@@ -1,16 +1,9 @@
-# bmi_calculator
+<p style="text-align:center"><span style="font-size:24px"><span style="font-family:Arial,Helvetica,sans-serif"><strong>A simple BMI Calculator using Flutter &amp; Dart</strong></span></span></p>
 
-A new Flutter project.
+<p style="text-align:center">&nbsp;</p>
 
-## Getting Started
+<p style="text-align:center"><span style="font-size:8px"><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/Screenshot_1661478435.png" style="height:800px; width:379px" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/Screenshot_1661478449.png" style="height:800px; width:379px" /></span></p>
 
-This project is a starting point for a Flutter application.
+<p style="text-align:center">&nbsp;</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p style="text-align:center"><span style="font-size:8px"><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/Screenshot_1661478463.png" style="height:800px; width:379px" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/Screenshot_1661478456.png" style="height:800px; width:379px" /></span></p>
